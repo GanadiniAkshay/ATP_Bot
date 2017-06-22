@@ -1,0 +1,3 @@
+How much is a taxi from Atlantis to Dubai Airport
+<-answer->
+It takes approximately AED100-120 to reach Dubai Airport from Atlantis The Palm.

@@ -1,0 +1,3 @@
+Do you provide non-Smoking Areas
+<-answer->
+Indoor dining area of the restaurants are non-smoking areas

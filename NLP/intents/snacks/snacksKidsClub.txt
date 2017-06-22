@@ -1,0 +1,3 @@
+Do you provide snacks for children who are in the Kids Club
+<-answer->
+Snacks (biscuits and juice) are provided to children once in every session. Water is available anytime during their adventure.

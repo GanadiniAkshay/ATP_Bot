@@ -1,0 +1,3 @@
+When can I check in and check out
+<-answer->
+The standard check-in time is 15:00pm and check-out time is 12:00pm midday. Early check-in, and late checkout is subject to availability. 

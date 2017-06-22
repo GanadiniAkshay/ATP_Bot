@@ -1,0 +1,3 @@
+What is the admission fee for club rush
+<-answer->
+AED 25 per person

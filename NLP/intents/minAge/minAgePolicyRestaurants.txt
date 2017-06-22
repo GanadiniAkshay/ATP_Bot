@@ -1,0 +1,3 @@
+Do you have minimum age policy for your restaurants
+<-answer->
+In Atlantis we offer different restaurants that cater to different guest expectations thus, in some restaurants there are age restrictions. For age policies visit the restaurant you would like to learn more about.  https://www.atlantisthepalm.com/restaurants

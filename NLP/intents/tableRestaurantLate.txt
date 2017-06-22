@@ -1,0 +1,3 @@
+If I'm late, how long will you hold my table restaurant reservation for
+<-answer->
+We hold an existing reservation for 15 minutes. In case you will be late, please call us to enable us to amend the reservation as per availability.

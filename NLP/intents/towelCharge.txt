@@ -1,0 +1,3 @@
+Do you charge for towels
+<-answer->
+Yes, towels can be rented at AED 30 per towel. We also have an option for locker and towel combo at the price of AED 50 per combo. Guests can also bring their own towels at no extra cost.

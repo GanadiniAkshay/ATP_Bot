@@ -1,0 +1,3 @@
+Do you offer meals in club rush
+<-answer->
+Yes, pizza dinner is available for AED 50 per child and should be booked by 17:00hrs. The food is served between 18:00hrs -19:00hrs.

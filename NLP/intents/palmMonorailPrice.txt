@@ -1,0 +1,3 @@
+How much are the tickets for the Palm Monorail
+<-answer->
+Ticket prices are AED15 one way, AED25 return.

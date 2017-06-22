@@ -1,0 +1,3 @@
+Do you charge for lockers
+<-answer->
+Yes, small lockers are charged at AED 40 and large lockers at AED 75

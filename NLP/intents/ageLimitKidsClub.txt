@@ -1,0 +1,4 @@
+What's the age limit for Kids Club
+Is there a age limit for the Kids Club?
+<-answer->
+Kids Club is designed for children ages 3 to 12 (proof of age is required on initial visit).

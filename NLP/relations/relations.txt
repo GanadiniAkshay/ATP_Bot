@@ -1,0 +1,27 @@
+Relations
+
+Price - aquaventurePrice, clubRushPrice, dolphinInteraction, familyPriceClubRush, kidsClubPrice, lostChamberaAquarium, seaLion
+
+camera - cameraWaterSlides, cameraWaterDolphins
+
+cater - caterAllergicToGlutten, caterDisabilities, caterDisabilitiesAquaventure, caterLactoseIntolerant, lostChambersDisabilities
+
+definitions - clubRush, kidsClub, lostChambers
+
+openingHours - clubRushOpeningHours, lostChambersOpeningHours, openingHoursSpaGym, poolBeachOpeningHours, aquaventureOpeningHours 
+
+comp -GuestsWifi,Non-GuestsWifi, guestCompAccessNightClub, guestNasimiBeach,  spaGymComplimentaryGuests
+
+inclusions - imperialClubInclusions, halfBoardPackage,dolphinSwimInclusions, seaLionInclusion, waterparkIncluded
+
+parking  - aquaventure, hotelParking
+
+minAge - minAgeAlcohol, minAgeCheckin, minAgeDolphinSwim, minAgePolicyRestaurants, minAgeSeaLion, aquaventureMinAge
+
+shuttle - shuttleAirport, shuttleMall
+
+snacks - snacksClubRush, snacksKidsClub
+
+taxi - taxiAtlantisToDubai, taxiAtlantistoAbuDhabi
+
+time - timeAbuDhabiToHotel, timeDubaiToHotel

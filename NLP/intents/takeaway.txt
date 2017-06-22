@@ -1,0 +1,3 @@
+Do you provide a takeaway / delivery service
+<-answer->
+Casual restaurants such as Poseidon Café, The Burger Joint, Asia Republic and Shawafel offer take aways however we do not offer delivery services.

@@ -1,0 +1,3 @@
+If I'm a hotel guest, do I receive a discount on dolphin swims
+<-answer->
+Yes, we offer Preferential Rates for all guests staying with us.

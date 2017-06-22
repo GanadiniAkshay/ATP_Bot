@@ -1,0 +1,3 @@
+What are the opening hours for your Spa and Gym
+<-answer->
+Shuiqi Spa is open from 10:00hrs - 22:00hrs while the Fitness Center is open from 05:00hrs - 22:00hrs daily.

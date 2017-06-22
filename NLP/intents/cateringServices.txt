@@ -1,0 +1,3 @@
+Do you offer catering services
+<-answer->
+We regret to inform you that we do not cater catering services. However if you wish to make a group reservations in any of our restaurants, we will be delighted to assist you further.

@@ -1,0 +1,4 @@
+wifi, WIFI, internet
+alcohol
+check in, checkin
+restaurants, restaurant

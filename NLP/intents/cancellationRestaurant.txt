@@ -1,0 +1,3 @@
+Do you have a cancellation policy for your restaurants
+<-answer->
+Cancellation policy will only be applied for group booking and it varies depending of the restaurant.

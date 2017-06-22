@@ -1,0 +1,3 @@
+How much is a taxi from Atlantis to Abu Dhabi Airport
+<-answer->
+It takes approximately AED200-300 to reach Abu Dhabi Airport from Atlantis The Palm.
